@@ -75,8 +75,7 @@ data = {
   'query' : urllib.quote_plus(querystring)
 }
 
-
-url = "https://api.happn.fr/api/users/6799798589/notifications/"
+url = "https://api.happn.fr/api/users/%s/notifications/" % user_info['user_id']
 
 r = requests.get(url, data=data, headers=headers)
 
