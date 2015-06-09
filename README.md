@@ -1,6 +1,6 @@
 # makeithappn
 
-Did you download happn but am finding a tough time liking all your prospects?
+Did you download happn but are having a tough time liking all your prospects?
 This script likes (not charms) all the people you came in contact with.
 
 It requires a Facebook access_token.
